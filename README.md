@@ -10,7 +10,7 @@ this is a REST social media web app.
 
 ### Screenshots:
 * [Sign up](https://i.ibb.co/R38BpqW/signup.jpg)
-<img src="https://i.ibb.co/R38BpqW/signup.jpg" width="400" height="250">
+* <img src="https://i.ibb.co/R38BpqW/signup.jpg" width="400" height="250">
 * [Log in](https://i.ibb.co/gdQXkc4/login.jpg)
 * [Feed page](https://i.ibb.co/0K5M4X2/feed.jpg)
 * [Single post](https://i.ibb.co/K0DNP7j/singlepost.jpg)
