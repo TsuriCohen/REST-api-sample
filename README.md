@@ -32,7 +32,6 @@ this is a REST social media web app.
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.4"
 
-<img src="https://i.ibb.co/R38BpqW/signup.jpg" width="400" height="250">
-<img src="https://i.ibb.co/R38BpqW/signup.jpg" width="400" height="250">
+<img src="https://i.ibb.co/R38BpqW/signup.jpg" width="400" height="250"><img src="https://i.ibb.co/R38BpqW/signup.jpg" width="400" height="250">
 <img src="https://i.ibb.co/R38BpqW/signup.jpg" width="400" height="250">
 <img src="https://i.ibb.co/R38BpqW/signup.jpg" width="400" height="250">
