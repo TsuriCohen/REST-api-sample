@@ -1,2 +1,1 @@
-# REST-api-sample
-REST api, node.js (express.js) back-end, MongoDB (mongoose) Datebase and react front-end
+<img src="https://i.ytimg.com/vi/TyWtx7q2D7Y/maxresdefault.jpg" width="400" height="250">
